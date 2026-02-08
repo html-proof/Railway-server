@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yt-dlp
+firebase-admin
+python-dotenv
+requests
+implicit
+scipy
+pandas
+numpy

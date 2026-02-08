@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+music-app-f2e65-firebase-adminsdk-fbsvc-e35848f856.json
+git_push_error.txt
+git_push_error_2.txt
+push_results.txt
